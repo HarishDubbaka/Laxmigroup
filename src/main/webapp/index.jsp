@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Laxmi Group of Engineering</title>
+    <title>Laxmi Group of Industries</title>
     <style>
         * {
             box-sizing: border-box;
