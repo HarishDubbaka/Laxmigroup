@@ -116,13 +116,13 @@
 <body>
     <div class="overlay">
         <header>
-            <h1>Laxmi Group of Engineering</h1>
+            <h1>Laxmi Group of Industries</h1>
             <p>Innovation • Integrity • Excellence</p>
         </header>
 
         <div class="container">
             <h2>About Us</h2>
-            <p>Laxmi Group of Engineering is a hub of knowledge, innovation, and technological advancement. With a mission to shape future-ready engineers, we offer state-of-the-art facilities, skilled faculty, and a vision that goes beyond academics.</p>
+            <p>Laxmi Group of Indutries is a hub of knowledge, innovation, and technological advancement. With a mission to shape future-ready engineers, we offer state-of-the-art facilities, skilled faculty, and a vision that goes beyond academics.</p>
         </div>
 
         <div class="container" style="margin-top: 30px;">
