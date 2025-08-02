@@ -1,0 +1,23 @@
+<settings>
+<servers>
+  <server>
+    <id>nextwork-laxmigroup</id>
+    <username>aws</username>
+    <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
+  </server>
+</servers>
+<profiles>
+  <profile>
+    <id>nextwork-laxmigroup</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>nextwork-laxmigroup</id>
+        <url>https://nextwork-891377087712.d.codeartifact.ap-south-1.amazonaws.com/maven/laxmigroup/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+</settings>
